@@ -2,7 +2,7 @@
 
 ### Overview
 
-After performing an exploratory analysis of the bike share program in NYC, we have found sufficient data to inform a piolet program in Des Moines, Iowa. Now we have created a presentation of the data we have found to bring to investors to convince them that our idea is a solid business proposal and worth invesitng in. 
+After performing an exploratory analysis of the bike share program in NYC, we have found sufficient data to inform a pilot program in Des Moines, Iowa. Now we have created a presentation of the data we have found to bring to investors to convince them that our idea is a solid business proposal and worth invesitng in. 
 
 
 ### Results
@@ -32,3 +32,13 @@ It is clear from these charts that the bikes are being used primarily as transpo
 These two charts show us the frequency of bike usage. Reinforcing our previous findings, we can see from the map on the left that most use is in the downtown area. The chart on the right shows that there is a subsection of bikes that are used more frequently than the others (green is less used, red is more used) We know from these two charts that there are higher use areas, and we would be wise to rotate the less used bikes with the more used bikes to spread out the wear an eahc bike.
 
 ### Summary
+
+This analysis has provided valuable insight into the target market of our pilot program. With around 70% of users from this data set being male, subscribers, taking 5-10 minute rides to work and back home.
+
+We also gained an early edge on bike management and upkeep through this deep dive into bike usage.
+
+I think there is further insight to be gained by looking at the ages of users. So I would make another visualization to show the trips by age. Perhaps broken down by gender. It might look like this! ( One can't help but notice an anomly in the data. There are many trips taken by 53 year olds of unknown gender potentially skewing the data.)
+
+![Trips by Age](https://github.com/Olibabba/bikesharing/blob/main/Resources/Age.png)
+
+I would also like to make a map combined with age (and maybe gender) to show which locations are more used by different demographics. Though I'm not sure what that would look like!
