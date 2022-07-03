@@ -2,7 +2,9 @@
 
 ### Overview
 
-After performing an exploratory analysis of the bike share program in NYC, we have found sufficient data to inform a pilot program in Des Moines, Iowa. Now we have created a presentation of the data we have found to bring to investors to convince them that our idea is a solid business proposal and worth invesitng in. 
+After performing an exploratory analysis of the bike share program in NYC, we have found sufficient data to inform a pilot program in Des Moines, Iowa. Now we have created a presentation of the data we have found to bring to investors to convince them that our idea is a solid business proposal and worth investing in. 
+
+The presentation can be viewed here: https://public.tableau.com/app/profile/oliver.dykstra/viz/BikeSharing2_16567344580130/NYCPresentation?publish=yes
 
 
 ### Results
